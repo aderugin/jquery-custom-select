@@ -1,0 +1,24 @@
+{
+  "name": "customSelect",
+  "version": "0.1",
+  "homepage": "https://github.com/aderugin/jquery-custom-select",
+  "authors": [
+    "LastDanmer <anton.derugin@gmail.com>"
+  ],
+  "description": "jQuery plugin for customization of selects",
+  "main": "jquery.customSelect.js",
+  "keywords": [
+    "select",
+    "selects",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
