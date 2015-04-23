@@ -1,0 +1,21 @@
+.js-custom-select {}
+
+.js-custom-select__input {}
+
+.js-custom-select__current {}
+
+.js-custom-select__current:before {}
+
+.js-custom-select-menu {}
+
+.js-custom-select-menu__current {}
+
+.js-custom-select-menu__items {}
+
+.js-custom-select-menu__item {}
+
+.js-custom-select-menu__item:hover {}
+
+.js-custom-select-menu__item:first-child {}
+
+.js-custom-select-menu__item_state_active {}
